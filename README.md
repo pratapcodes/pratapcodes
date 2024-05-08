@@ -64,3 +64,7 @@
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=pratapcodes&theme=juicyfresh&no-bg=true" alt="pratapcodes" />  
 
 </p>
+
+<br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratapcodes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
