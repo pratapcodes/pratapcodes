@@ -53,14 +53,14 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratapsinghsaru&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Pratap's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratapcodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Pratap's Github Stats">
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratapsinghsaru&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="pratapsinghsaru" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratapcodes&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="pratapcodes" />  
 </p>      
 
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=pratapsinghsaru&theme=juicyfresh&no-bg=true" alt="pratapsinghsaru" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=pratapcodes&theme=juicyfresh&no-bg=true" alt="pratapcodes" />  
 
 </p>
